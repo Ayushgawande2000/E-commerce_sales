@@ -75,6 +75,7 @@ df.head()
 **plt.title("Discount vs Profit")**
 
 **plt.show()**
+<img width="128" height="356" alt="image" src="https://github.com/user-attachments/assets/fdddf551-6236-4227-8dd4-48b2c67be6d9" />
 
 
 
